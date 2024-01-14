@@ -9,9 +9,9 @@
  */
 public class Constants {
 
-    public static String GOOGLE_CLIENT_ID = "107009318948-o4luvggtpqglu9t9flnhjaq46vfmflij.apps.googleusercontent.com";
+    public static String GOOGLE_CLIENT_ID = "Client ID";
 
-    public static String GOOGLE_CLIENT_SECRET = "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";
+    public static String GOOGLE_CLIENT_SECRET = "Client secret";
 
     public static String GOOGLE_REDIRECT_URI = "http://localhost:8080/LoginGoogle/LoginGoogleHandler";
 
